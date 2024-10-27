@@ -1,0 +1,7 @@
+node_modules
+assistant-config.json
+/build
+*.tsbuildinfo
+/files
+/generated
+.env
